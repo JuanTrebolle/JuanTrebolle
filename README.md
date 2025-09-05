@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am studying a MsC. in Computer Science & Engineering at the Danish Technical University (DTU).<br><br>I am currently writing my thesis with the company [DemensAI](https://www.demensai.dk/).<br><br>Do not hesitate to reach out! :)</p>
+<p align="left">I just graduated with a MSc. in Computer Science & Engineering from the Danish Technical University (DTU).<br><br>Do not hesitate to reach out! :)</p>
 
 ###
 
